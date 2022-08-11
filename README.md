@@ -1,5 +1,12 @@
 # StepperPosition
-(stepper + lead screw) - keypad4x4 - lcd
+- Hardware:
+    + stepper: 57bygh
+    + lead screaw
+    + driver TB6600
+    + Keypad 4x4
+    + LCD 16x2
+    + Arduino Leonardo R3 ATMEGA32U4
+
 - reStepperControl: //try making it run
     + linear - moving
 - rawStepperControl: // add more function, try to use timer, pwm, register, etc...
